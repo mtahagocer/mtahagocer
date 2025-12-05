@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Enhancing and optimizing web services and applications at Anywai as a Senior Javascript Developer.<br><br>
+🔭 I’m currently working on: Enhancing and optimizing web services and applications at MOJO CX as a Senior Software Engineer.<br><br>
 👯 I’m looking to collaborate on: Exciting projects that involve cutting-edge technologies, especially those related to development with JavaScript ecosystem.<br><br>
 🌱 I’m currently learning: Always striving to deepen my knowledge of Node.js, React, Next.js, Nest.js, React Native, Expo and exploring innovative approaches to data-driven design and performance optimization.<br><br>
 💬 Ask me about: Anything related to JavaScript, TypeScript, React, React Native, Expo, Next, Nest, and the intricacies of developing high-performing web applications. Also, feel free to reach out for code reviews or discussions on performance optimization techniques.<br><br>
